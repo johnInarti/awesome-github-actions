@@ -64,6 +64,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [GitHub Code Scanning](https://docs.github.com/en/code-security/code-scanning) – Scan your codebase for vulnerabilities.
 - [trilom/file-changes-action](https://github.com/trilom/file-changes-action) – Detect file changes across branches or PRs.
 - [GitLeaks Action](https://github.com/gitleaks/gitleaks-action) – Scan repositories for secrets and keys.
+- [PQC Readiness Scan](https://github.com/johnInarti/pqc-readiness-action) – Statically scan a repository for quantum-vulnerable cryptography (RSA, ECDSA, ECDH/X25519, Ed25519/Ed448, finite-field Diffie-Hellman, DSA) and write a CycloneDX 1.6 CBOM. A static scan is not a proof of absence, nor a compliance certification.
 
 ## Testing
 
